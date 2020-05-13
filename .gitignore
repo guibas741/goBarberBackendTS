@@ -4,7 +4,7 @@ build/
 .vscode/
 coverage/
 .env
-ormgconfig.json
+ormconfig.json
 
 temp/
 tmp/*
