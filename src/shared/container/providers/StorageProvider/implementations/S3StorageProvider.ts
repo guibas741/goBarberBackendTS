@@ -1,4 +1,4 @@
-import uploadConfig, { uploadConfig } from '@config/upload';
+import uploadConfig from '@config/upload';
 import fs from 'fs';
 import path from 'path';
 import aws, { S3 } from 'aws-sdk';
