@@ -5,6 +5,8 @@ build/
 coverage/
 .env
 ormconfig.json
+dist/
+yarn-error.log
 
 temp/
 tmp/*
